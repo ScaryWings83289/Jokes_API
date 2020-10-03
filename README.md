@@ -1,3 +1,7 @@
+This project contains an API which fetches 10 random Jokes at a time. You can upvote a Joke and on the basis of that emoji changes from very sad to very happy.
+
+You can view the demo on [Jokes App](https://jokes-api.netlify.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
